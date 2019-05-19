@@ -1,0 +1,30 @@
+{
+  "name": "apiazanscrap",
+  "version": "1.0.0",
+  "description": "REST API azan yang diambil dari scrapping web jadwalsholat.org",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.3.3",
+    "express": "^4.17.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gen781/apiazanscrap.git"
+  },
+  "keywords": [
+    "api",
+    "scrapper"
+  ],
+  "author": "Rahmat Ade Saputra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gen781/apiazanscrap/issues"
+  },
+  "homepage": "https://github.com/gen781/apiazanscrap#readme"
+}
