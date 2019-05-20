@@ -10,7 +10,7 @@ Masuk ke folder :
 ```bash
 cd apiazanscrap
 ```
-Gunakan npm paackage manager untuk instalasi:
+Gunakan npm package manager untuk instalasi:
 ```bash
 npm install
 ```
