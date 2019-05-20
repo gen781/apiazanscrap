@@ -1,7 +1,7 @@
 # apiazanscrap
-REST API yang diambil dari scrapping web jadwalsholat.org
+REST API yang diambil dari scraping web jadwalsholat.org
 
-## Install
+## Instalasi
 Clone repository :
 ```bash
 git clone https://github.com/gen781/apiazanscrap.git
